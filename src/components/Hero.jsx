@@ -69,7 +69,7 @@ const Hero = () => {
           Contact Me
         </a>
         <a
-          href="/Resume.pdf"
+          href="/FinalResume.pdf"
           download
           className="px-6 py-2 rounded-full border border-purple-500 text-purple-600 dark:text-purple-400 font-medium hover:bg-purple-50 dark:hover:bg-purple-900 transition"
         >
