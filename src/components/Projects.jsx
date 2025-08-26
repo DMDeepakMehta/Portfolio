@@ -42,7 +42,7 @@ const projects = [
       "A modern movie ticket booking application that allows users to browse movies, view showtimes, select seats, and book tickets.",
     image: "/QuickShow.png",
     github: "https://github.com/DMDeepakMehta/QuickShow",
-    demo: "https://quick-show-xi.vercel.app/",
+    demo: "https://quick-show-chi.vercel.app/",
     tech: [<SiReact key="react" />,, <SiTailwindcss />,  <SiPostgresql />,<FiUserCheck key="clerk" />,],
   },
   {
