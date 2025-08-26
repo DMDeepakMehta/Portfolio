@@ -63,7 +63,7 @@ const Hero = () => {
         className="flex gap-4 mt-4"
       >
         <a
-          href="#contact-us"
+          href="#contact-me"
           className="px-6 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-md hover:shadow-lg transition"
         >
           Contact Me
